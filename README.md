@@ -1,28 +1,39 @@
-# Tictactoe
+# Home project - Tic Tac Toe
+Simple Tic Tac Toe game made with Angular
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.1.4.
+<table>
+  <tr>
+    <td><img src="https://angular.io/assets/images/logos/angular/angular.svg" height="100px"></td>
+    <td><img src="https://angular.io/generated/images/marketing/concept-icons/animations.png" height="80px"></td>
+    <td><img src="https://angular.io/generated/images/marketing/concept-icons/pwa.png" height="80px"></td>
+    <td><img src="https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-512.png" height="100px"></td>
+    <td><img src="https://user-images.githubusercontent.com/113902874/222854224-d1525738-cce0-4576-ae8c-89a1ccfdf0ab.png" height="100px"></td>
+  </tr>
+</table>
 
-## Development server
+## Code
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+### Languages
 
-## Code scaffolding
+The following coding languages have been used in this project:
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+- HTML
+- CSS
+- JS
+- Angular
 
-## Build
+### Implementations
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+The following implementations have been used in this project:
 
-## Running unit tests
+- Angular Material
+- Firebase
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+### Learned about
 
-## Running end-to-end tests
+- Ionic
+- Nebular
+- CSS transitions
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
-"# hprj_tic_tac_toe" 
+## Project Goal
+Project made to learn more about Angular and deploying web apps with Firebase.
